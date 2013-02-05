@@ -4,7 +4,7 @@ $lang_hr = array(
 // This isn't a complete list of all messages in Pulsir, just a few and it isn't implemented yet. 
 // frontpage start
 // frontpage intro start
-'frontpage_heading' = 'Pulsir je bolji, brži i jednostavniji način za bloganje.';
+'frontpage_heading' = 'Pulsir is the Simplest, the Fastest and the Best way for blogging';
 'frontpage_intro_text' = 'Napišite svoj najbolji tekst i prepustite tehnikalije nama. Pratite svoje omiljene blogere i sudjelujte u raspravama. ';
 'frontpage_addpost' = 'Dodajte svoj prvi post';
 'frontpage_addpost_today' = 'već danas ili';
@@ -13,31 +13,31 @@ $lang_hr = array(
 'frontpage_newposts' = 'pogledajte što je novo';
 // frontpage intro stop
 // frontpage getaprofile-box start
-'frontpage_getaprofile-box_heading' = 'Nabavite svoj profil';
+'frontpage_getaprofile-box_heading' = 'Get your own profile';
 // this can be global, so let's make it global
-'email_adress' = 'Email adresa';
-'username' = 'Korisničko ime';
-'moreinfo' = 'Više informacija';
+'email_adress' = 'eMail address';
+'username' = 'Username';
+'moreinfo' = 'Detailed information';
 // end of global stuff
-'frontpage_getaprofile-box_button' = 'Registrirajte se';
-'frontpage_getaprofile-wontbeshared'= 'Vaša e-mail adresa neće biti dijeljena.';
+'frontpage_getaprofile-box_button' = 'Register';
+'frontpage_getaprofile-wontbeshared'= 'Your eMail address wont be shared.';
 // end of the getaprofile-box
 'frontpage_needhelp_heading' = 'Trebate pomoć?'
 'frontpage_needhelp_text' = 'Javite nam se! Rado ćemo odgovoriti na sve vaše upite.';
 'frontpage_needhelp_tenderopen' = 'Otvorite novo pitanje';
 // this also can be global
-'or' = 'ili';
+'or' = 'or';
 // no more global
 'frontpage_needhelp_tenderkb' = 'posjetite našu bazu znanja';
 // the menu here
-'menu_newposts' = 'Novi postovi'; 
-'menu_tos' = 'Uvjeti korištenja';
-'menu_privacy' = 'Privatnost';
-'menu_support' = 'Podrška';
-'menu_team' = 'Tim';
+'menu_newposts' = 'New posts'; 
+'menu_tos' = 'Terms of service';
+'menu_privacy' = 'Privacy';
+'menu_support' = 'Support';
+'menu_team' = 'Our Team';
 // some messages
 'usesandrecommends' = 'Pulsir koristi i preporučuje';
-'ads' = 'Oglasi:';
+'ads' = 'Ads:';
 // terms of use
 'tos' = 'Kako bismo na Pulsiru održali red i diskusije na prihvatljivom nivou, molimo Vas da se pridržavate uvjeta korištenja. Na Pulsiru je zabranjeno:
 <ul><li>kršenje zakona Republike Hrvatske (posebno Vam skrećemo pažnju na pozivanje na mržnju ili diskriminaciju, opravdavanje ili veličanje kaznenih dijela, kršenje autorskih prava, te pedofiliju, mučenje životinja i sl.)</li>
@@ -59,7 +59,7 @@ Zahvaljujemo na pažnji i želimo vam ugodan boravak na Pulsiru.'
 <center><h3>Imate pitanja? <strong><a href="mailto:dev@plsr.tk">Kontaktirajte nas<span class="per">.</span></a></strong></h3></center>';
 
 // add a post
-'add_h1' = 'Dodaj novi post.';
+'add_h1' = 'Add new post.';
 'add_title' = 'Kako će se zvati ovaj tekst?';
 'add_title_field' = 'Naslov posta';
 'add_text' = 'Odradi svoje.';
